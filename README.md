@@ -78,18 +78,16 @@
 <p align="left" width="100%">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abhishek-K-Choudhary&show_icons=true&hide_border=true&show_icons=true&theme=radical" alt="Abhishek-K-Choudhary" />
     <img  width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-K-Choudhary&theme=radical&cache_seconds=30&hide_border=true" alt="Abhishek-K-Choudhary" />
-</p>  
+</p> 
+
 <br />
 
+<p align="left" width="100%">
 <img align="left" height="280" width="400" src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif">
-
+</p>
 ## Coding is fun 🤩💝
 ### :handshake: Always happy to help!
 
-
-
-
-</br>
 </br>
 <i>Random dev joke for you!</i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
