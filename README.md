@@ -66,6 +66,7 @@
 <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Html.png" alt="HTML" width="40" height="40"/>
 <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Css.png" alt="CSS" width="40" height="40"/><br>
 
+<h2 align="left">My Github Stats 🔥</h2>   
 
 <details><summary>Trophies</summary>
 <br>
@@ -74,16 +75,9 @@
 </details>
 
 
-<h2 align="left">My Github Stats 🔥</h2>   
-
 <p align="left" width="100%">
-<img width="33%" src="https://github-readme-stats.vercel.app/api?username=Abhishek-K-Choudhary&show_icons=true&hide_border=true&show_icons=true&theme=radical" alt="Abhishek-K-Choudhary" />
-</p>
-
-
-<h2 align="left">My contribution Streak 🔥</h2>
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-K-Choudhary&theme=radical&cache_seconds=30&hide_border=true" alt="Abhishek-K-Choudhary" />
+    <img width="33%" src="https://github-readme-stats.vercel.app/api?username=Abhishek-K-Choudhary&show_icons=true&hide_border=true&show_icons=true&theme=radical" alt="Abhishek-K-Choudhary" />
+    <img  width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-K-Choudhary&theme=radical&cache_seconds=30&hide_border=true" alt="Abhishek-K-Choudhary" />
 </p>  
 
 
@@ -91,6 +85,10 @@
 
 ## Coding is fun 🤩💝
 ### :handshake: Always happy to help!
+
+
+
+
 </br>
 </br>
 <i>Random dev joke for you!</i><br>
@@ -98,9 +96,6 @@
 
 ---
 
-
-
-<br />
 
 <p align="center">
   <h2 align="center">Visitors count</h2>
@@ -112,4 +107,4 @@
 
 <br />
 
-Thank you so much for visiting my space on [GitHub](https://github.com/Abhishek-KChoudhary)! :v:
+<p align="center">Thank you so much for visiting my space on [GitHub](https://github.com/Abhishek-KChoudhary)! :v:</p>
