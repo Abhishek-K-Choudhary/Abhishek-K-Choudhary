@@ -107,4 +107,4 @@
 
 <br />
 
-<p align="center">Thank you so much for visiting my space on [GitHub](https://github.com/Abhishek-KChoudhary)! :v:</p>
+<p align="center">Thank you so much for visiting my space on ![GitHub](https://github.com/Abhishek-KChoudhary) :v:</p>
