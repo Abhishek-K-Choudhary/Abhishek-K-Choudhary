@@ -88,6 +88,7 @@
 <img align="left" height="280" width="400" src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif">
 </p>
 
+---
 
 </br>
 <p>Random dev joke for you!
@@ -106,6 +107,5 @@
 </p>
 
 <br />
-### :hugs: Thank You!
-Thank you so much for visiting my tiny space on [GitHub](https://github.com/Jassi10000)! :v: 
-<p align="center">Thank you so much for visiting my space on [GitHub](https://github.com/Abhishek-K-Choudhary)! :v:</p>
+
+<p align="center">Thank you so much for visiting my space on GitHub :v:</p>
