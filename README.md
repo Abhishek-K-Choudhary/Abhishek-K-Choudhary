@@ -7,23 +7,23 @@
 
 
 <a href="https://www.linkedin.com/in/abhishek-kr-choudhary">
-  <img align="center" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+  <img align="center" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" width="52"/>
 </a>
 <a href="https://twitter.com/desi_coder_Abhi">
-  <img align="center" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="center" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="linkedin" width="52"/>
 </a>
 <a href="mailto:abhishekchoudhary847411@gmail.com">
-  <img align="center" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="center" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="linkedin" width="52"/>
 </a>
 <a href="https://www.youtube.com/channel/UCLYisUD68k3puI74WZnF7Sg">
-  <img align="center" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  <img align="center" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="linkedin" width="52"/>
 </a>
 <a href="https://dev.to/abhishekkchoudhary">
-  <img align="center" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" />
+  <img align="center" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" alt="linkedin" width="52"/>
 </a>
 <a href="https://medium.com/@abhishek-choudhary
 ">
-  <img align="center" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />
+  <img align="center" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" alt="linkedin" width="52"/>
 </a>
 <p/>
 </div>
@@ -76,10 +76,10 @@
 
 
 <p align="left" width="100%">
-    <img width="33%" src="https://github-readme-stats.vercel.app/api?username=Abhishek-K-Choudhary&show_icons=true&hide_border=true&show_icons=true&theme=radical" alt="Abhishek-K-Choudhary" />
-    <img  width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-K-Choudhary&theme=radical&cache_seconds=30&hide_border=true" alt="Abhishek-K-Choudhary" />
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Abhishek-K-Choudhary&show_icons=true&hide_border=true&show_icons=true&theme=radical" alt="Abhishek-K-Choudhary" />
+    <img  width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-K-Choudhary&theme=radical&cache_seconds=30&hide_border=true" alt="Abhishek-K-Choudhary" />
 </p>  
-
+<br />
 
 <img align="left" height="280" width="400" src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif">
 
