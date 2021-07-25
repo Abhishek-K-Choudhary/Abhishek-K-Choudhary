@@ -106,5 +106,6 @@
 </p>
 
 <br />
-
+### :hugs: Thank You!
+Thank you so much for visiting my tiny space on [GitHub](https://github.com/Jassi10000)! :v: 
 <p align="center">Thank you so much for visiting my space on [GitHub](https://github.com/Abhishek-K-Choudhary)! :v:</p>
