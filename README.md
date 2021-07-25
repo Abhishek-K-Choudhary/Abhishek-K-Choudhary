@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/abhishek-kr-choudhary">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="https://twitter.com/kunalstwt">
+<a href="https://twitter.com/desi_coder_Abhi">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="mailto:abhishekchoudhary847411@gmail.com">
