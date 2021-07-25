@@ -83,8 +83,8 @@
 <br />
 
 <p align="left" width="100%">
-    Coding is fun 🤩💝
-:handshake: Always happy to help!
+    Coding is fun 🤩💝<br />
+:handshake: I will be happy to help!<br/>
 <img align="left" height="280" width="400" src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif">
 </p>
 
