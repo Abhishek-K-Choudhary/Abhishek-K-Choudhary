@@ -76,8 +76,8 @@
 
 
 <p align="left" width="100%">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Abhishek-K-Choudhary&show_icons=true&hide_border=true&show_icons=true&theme=radical" alt="Abhishek-K-Choudhary" />
-    <img  width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-K-Choudhary&theme=radical&cache_seconds=30&hide_border=true" alt="Abhishek-K-Choudhary" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abhishek-K-Choudhary&show_icons=true&hide_border=true&show_icons=true&theme=radical" alt="Abhishek-K-Choudhary" />
+    <img  width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-K-Choudhary&theme=radical&cache_seconds=30&hide_border=true" alt="Abhishek-K-Choudhary" />
 </p>  
 <br />
 
@@ -107,4 +107,4 @@
 
 <br />
 
-<p align="center">Thank you so much for visiting my space on ![GitHub](https://github.com/Abhishek-KChoudhary) :v:</p>
+<p align="center">Thank you so much for visiting my space on [GitHub](https://github.com/Abhishek-K-Choudhary)! :v:</p>
