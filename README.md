@@ -36,8 +36,8 @@
 
 <h2 align="center">Here are some facts about me ✍</h2>
 
-- 🔭 I’m a Data Science, Open Source, ML, Robotics & IoT Enthusiast and a sophomore pursuing my Bachelor in Electrical & Electronics Engineering
-- ‍💻 I'm passionate about Data Science, Web Dev, Machine Learning, DevOps & I love to learn new things. </br>
+- 🔭 I’m a Data Science & IoT Enthusiast and a sophomore pursuing my Bachelor in Electrical & Electronics Engineering
+- ‍💻 I'm passionate about Data Science, Machine Learning, DevOps,Web Dev, Cybersecurity & I love to learn new things. </br>
 - 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with  DSA concepts and Competitive Programming
@@ -84,14 +84,13 @@
 
 <p align="left" width="100%">
     Coding is fun 🤩💝<br />
-:handshake: I will be happy to help!<br/>
 <img align="left" height="280" width="400" src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif">
 </p>
 
 ---
 
 </br>
-<p>Random dev joke for you!
+<p align="left", width="100%">Random dev joke for you!
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
 </p><br>
 
