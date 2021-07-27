@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Abhishek!](https://abhishek-k-choudhary.github.io)
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Abhishek!](https://abhishek-k-choudhary.github.io) Happy to see you here 🙂
 
 <h3 align="center">Connect with me 🤝 here:</h3>
 <body>
@@ -28,11 +28,9 @@
 <p/>
 </div>
 </body>
-
 <br />
 
-
-
+[![Abhishek's github activity graph](https://activity-graph.herokuapp.com/graph?username=Abhishek-K-Choudhary&theme=xcode)](https://git.io/Abhishek-K-Choudhary)
 
 <h2 align="center">Here are some facts about me ✍</h2>
 
@@ -43,30 +41,48 @@
 - 🤔 I’m looking for help with  DSA concepts and Competitive Programming
 - 💬 Ask me about anything, I will be happy to answer
 - Pronouns: He/Him
-- ⚡ Fun fact: Why not contribute to open source on GitHub and make green square being a Developer, because other contribution is not worthy and snapchat and Insta is not best fit for Developers workstyle 😒
-
+- ⚡ Fun fact: Why not contribute to open source on GitHub and make green square being a Developer, because other contribution is not worthy and snapchat and Insta is not best fit for Developers workstyle 🙃
 <br>
 
-## Languages and Tools <br>
+## ⚡ Technologies
 
-<p align="left">
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/C.png" alt="C" width="40" height="40"/>
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Visual%20Studio%20Code.png" alt="Visual Studio Code" width="40" height="40"/>
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Linux.png" alt="Linux" width="40" height="40"/>
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Python.png" alt="Python" width="40" height="40"/>
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Jupyter.png" alt="Jupyter" width="40" height="40"/>
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Pycharm.png" alt="Pycharm" width="40" height="40"/>
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Numpy.png" alt="Numpy" width="40" height="40"/>
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Pandas.png" alt="Pandas" width="40" height="40"/>
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/TensorFlow.png" alt="TensorFlow" width="40" height="40"/>
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Git.png" alt="Git" width="40" height="40"/>
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Github.png" alt="GitHub" width="40" height="40"/>
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Azure.png" alt="Azure" width="40" height="40"/>
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/AWS.png" alt="AWS" width="80" height="40"/>
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Html.png" alt="HTML" width="40" height="40"/>
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Css.png" alt="CSS" width="40" height="40"/><br>
+### Language :
 
-<h2 align="left">My Github Stats 🔥</h2>   
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+
+### Libraries & Framework :
+
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+<a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+<a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
+<a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
+
+### DevOps & Cloud Tools:
+
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+<a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white"></a>
+<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
+
+## 💰 Support
+<p>
+<a href='https://ko-fi.com/abhishekchoudhary' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://www.buymeacoffee.com/abhishekchy' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' border='0' alt='Support Abhishek on buymecoffee' /></a>
+</p>
+
+
+<h2 align="left">My GitHub Stats 🔥</h2>   
 
 <details><summary>Trophies</summary>
 <br>
