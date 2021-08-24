@@ -38,7 +38,7 @@
 - ‍💻 I'm passionate about Data Science, Machine Learning, DevOps,Web Dev, Cybersecurity & I love to learn new things. </br>
 - 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on Open Source Projects
-- 🤔 I’m looking for help with  DSA concepts and Competitive Programming
+- 🤔 I’m looking for help with  DSA concepts.
 - 💬 Ask me about anything, I will be happy to answer
 - Pronouns: He/Him
 - ⚡ Fun fact: Why not contribute to open source on GitHub and make green square being a Developer, because other contribution is not worthy and snapchat and Insta is not best fit for Developers workstyle 🙃
@@ -50,10 +50,10 @@
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![MySQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 ### Libraries & Framework :
 
@@ -61,6 +61,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
 <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
 <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
