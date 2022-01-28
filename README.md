@@ -34,7 +34,7 @@
 
 <h2 align="center">Here are some facts about me ✍</h2>
 
-- 🔭 I’m a Data Science & IoT Enthusiast and a sophomore pursuing my Bachelor in Electrical & Electronics Engineering
+- 🔭 I’m a Data Science Enthusiast and a sophomore pursuing my Bachelor in Electrical & Electronics Engineering
 - ‍💻 I'm passionate about Data Science, Machine Learning, DevOps,Web Dev, Cybersecurity & I love to learn new things. </br>
 - 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on Open Source Projects
