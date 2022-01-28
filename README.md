@@ -35,13 +35,13 @@
 <h2 align="center">Here are some facts about me ✍</h2>
 
 - 🔭 I’m a Data Science Enthusiast and a junior pursuing my Bachelor in Electrical & Electronics Engineering
-- ‍💻 I'm passionate about Data Science, Machine Learning, DevOps,Web Dev, Cybersecurity & I love to learn new things. </br>
-- 🌱 I’m currently learning Data Science
+- ‍💻 I'm passionate about Data Science, Machine Learning, DevOps, Web Dev, Cybersecurity & I love to learn new things. </br>
+- 🌱 I’m currently learning Data Science.
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with  DSA concepts.
 - 💬 Ask me about anything, I will be happy to answer
 - Pronouns: He/Him
-- ⚡ Fun fact: Why not contribute to open source on GitHub and make green square being a Developer, because other contribution is not worthy and snapchat and Insta is not best fit for Developers workstyle 🙃
+- ⚡ Fun fact: Why not contribute to open source on GitHub and make green square being a Developer 🙃
 <br/>
 
 ## ⚡ Technologies
