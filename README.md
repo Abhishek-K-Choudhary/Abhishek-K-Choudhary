@@ -35,13 +35,12 @@
 <h2 align="center">Here are some facts about me ✍</h2>
 
 - 🔭 I’m a Data Science Enthusiast and a junior pursuing my Bachelor in Electrical & Electronics Engineering
-- ‍💻 I'm passionate about Data Science, Machine Learning, DevOps, Web Dev, Cybersecurity & I love to learn new things. </br>
-- 🌱 I’m currently learning Data Science.
-- 👯 I’m looking to collaborate on Open Source Projects
-- 🤔 I’m looking for help with  DSA concepts.
+- ‍💻 I'm passionate about Artificial Intelligence, MLOps, Internet of Things & Robotics </br>
+- 🌱 I’m currently learning about best MLOps practices and the implementation.
+- 👯 I’m looking to collaborate on some exciting projects related to Health, Finance, Agriculture or Retail Areas.
 - 💬 Ask me about anything, I will be happy to answer
 - Pronouns: He/Him
-- ⚡ Fun fact: Why not contribute to open source on GitHub and make green square being a Developer 🙃
+- ⚡ Fun fact: By having this amazing human brain, why not use it to think analytically
 <br/>
 
 ## ⚡ Technologies
@@ -99,8 +98,8 @@
 <br />
 
 <p align="left" width="100%">
-    Coding is fun 🤩💝<br />
-<img align="left" height="280" width="400" src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif">
+    **"Data is the key to solve every problem, if we know how to play with it"**🤩<br />
+<img align="left" height="280" width="400" src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif">
 </p>
 
 ---
@@ -123,4 +122,4 @@
 
 <br />
 
-<p align="center">Thank you so much for visiting my space on GitHub :v:</p>
+<p align="center">Thank you so much for visiting ❤️:v:</p>
