@@ -96,12 +96,6 @@
 </p> 
 <br />
 
----
-<br />
-<p align="centre" ><img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></p>
-
-
-
 <p align="center">
   <h2 align="center">Visitors count</h2>
 </p>
@@ -111,4 +105,4 @@
 </p>
 
 
-<p align="center">Thank you so much for visiting ❤️:v:</p>
+<p align="center">Thank you so much for visiting!❤️:v:</p>
