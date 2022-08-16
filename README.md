@@ -96,8 +96,7 @@
 </p> 
 <br />
 ----
-<p align="centre" width="100%"><a href="https://readme-jokes.vercel.app"><img align="centre" width="48%" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>"Data is the key to solve every problem,<br> if we know how to play with it"🤩
-</p>
+<p align="centre" width="100%"><a href="https://readme-jokes.vercel.app"><img align="centre" width="48%" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a></p>
 
 
 
