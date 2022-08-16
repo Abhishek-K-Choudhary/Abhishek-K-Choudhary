@@ -94,19 +94,18 @@
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abhishek-K-Choudhary&show_icons=true&hide_border=true&show_icons=true&theme=radical" alt="Abhishek-K-Choudhary" />
     <img  width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-K-Choudhary&theme=radical&cache_seconds=30&hide_border=true" alt="Abhishek-K-Choudhary" />
 </p> 
-<br/>
+<br />
 
-<br>
-<p align="right" width="48%">
+<p align="right" width="100%">
     **"Data is the key to solve every problem, if we know how to play with it"**🤩<br />
 <img align="right" height="200" width="300" src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif">
 </p>
 
 
-<p align="left", width="48%">Random dev joke for you!
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
+<p align="left", width="100%">Random dev joke for you!
+<a href="https://readme-jokes.vercel.app"><img align="left" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
 </p>
-</br>
+
 
 
 <p align="center">
