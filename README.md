@@ -95,8 +95,10 @@
     <img  width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-K-Choudhary&theme=radical&cache_seconds=30&hide_border=true" alt="Abhishek-K-Choudhary" />
 </p> 
 <br />
-----
-<p align="centre" width="100%"><a href="https://readme-jokes.vercel.app"><img align="centre" width="48%" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a></p>
+
+---
+<br />
+<p align="centre" width="100%"><a href="https://readme-jokes.vercel.app"><img align="centre" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a></p>
 
 
 
