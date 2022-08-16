@@ -101,14 +101,14 @@
     **"Data is the key to solve every problem, if we know how to play with it"**🤩<br />
 <img align="right" height="200" width="300" src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif">
 </p>
-
-</br>
 ---
-
+</br>
 
 <p align="left", width="100%">Random dev joke for you!
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
-</p><br>
+</p>
+
+<br>
 
 ---
 
@@ -121,6 +121,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Abhishek-K-Choudhary.Abhishek-K-Choudhary" />
 </p>
 
-<br />
+<br/>
 
 <p align="center">Thank you so much for visiting ❤️:v:</p>
