@@ -99,7 +99,7 @@
 
 <p align="left" width="100%">
     **"Data is the key to solve every problem, if we know how to play with it"**🤩<br />
-<img align="left" height="200" width="300" src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif">
+<img align="right" height="200" width="300" src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif">
 </p>
 
 ---
