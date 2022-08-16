@@ -96,14 +96,10 @@
 </p> 
 <br />
 
-<p align="right" width="100%">
+<p align="left" width="100%">
     **"Data is the key to solve every problem,<br> if we know how to play with it"**🤩<br />
-<img align="centre" height="200" width="300" src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif">
-</p>
-
-
-<p align="left", width="100%">Random dev joke for you!
-<a href="https://readme-jokes.vercel.app"><img align="centre" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
+<img align="centre" width="48%" src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif">
+<a href="https://readme-jokes.vercel.app"><img align="centre" width="48%" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes">Some Random Dev Jokes for you</a>
 </p>
 
 
