@@ -94,14 +94,13 @@
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abhishek-K-Choudhary&show_icons=true&hide_border=true&show_icons=true&theme=radical" alt="Abhishek-K-Choudhary" />
     <img  width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-K-Choudhary&theme=radical&cache_seconds=30&hide_border=true" alt="Abhishek-K-Choudhary" />
 </p> 
-
 <br/>
 
+<br>
 <p align="left" width="100%">
     **"Data is the key to solve every problem, if we know how to play with it"**🤩<br />
 <img align="right" height="200" width="300" src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif">
 </p>
----
 </br>
 
 <p align="left", width="100%">Random dev joke for you!
@@ -109,10 +108,6 @@
 </p>
 
 <br>
-
----
-
-
 <p align="center">
   <h2 align="center">Visitors count</h2>
 </p>
@@ -120,7 +115,7 @@
 <p align = "center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Abhishek-K-Choudhary.Abhishek-K-Choudhary" />
 </p>
-
 <br/>
+
 
 <p align="center">Thank you so much for visiting ❤️:v:</p>
