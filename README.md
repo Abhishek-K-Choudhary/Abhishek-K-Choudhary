@@ -1,6 +1,6 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px">, I'm [Abhishek!](https://abhishek-k-choudhary.github.io/Abhishek-K-Choudhary/) Happy to see you here 🙂
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px">, I'm [Abhishek!](https://abhishek-k-choudhary.github.io/Abhishek-K-Choudhary/) Happy to have you here 🙂
 
-<h3 align="center">Connect with me 🤝 here:</h3>
+<h3 align="center">Connect with me 🤝</h3>
 <body>
     <div class="img1">
 <p align='center'>
@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/abhishek-kr-choudhary">
   <img align="center" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" width="52"/>
 </a>
-<a href="https://twitter.com/desi_coder_Abhi">
+<a href="https://twitter.com/abhi_choudhary5">
   <img align="center" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="linkedin" width="52"/>
 </a>
 <a href="mailto:abhishekchoudhary847411@gmail.com">
@@ -34,11 +34,11 @@
 
 <h2 align="center">Here are some facts about me ✍</h2>
 
-- 🔭 I’m a Data Science Enthusiast and a junior pursuing my Bachelor in Electrical & Electronics Engineering
+- 🔭 I’m a Data Science Enthusiast and a senior pursuing my Bachelor in Electrical & Electronics Engineering
 - ‍💻 I'm passionate about Artificial Intelligence, MLOps, Internet of Things & Robotics </br>
 - 🌱 I’m currently learning about best MLOps practices and the implementation.
-- 👯 I’m looking to collaborate on some exciting projects related to Health, Finance, Agriculture or Retail Areas.
-- 💬 Ask me about anything, I will be happy to answer
+- 👯 I’m looking to collaborate on some exciting projects related to some key areas like Health, Finance, Agriculture or Retail Areas.
+- 💬 Ask me about anything, I will try my best to reply you as soon as possible
 - Pronouns: He/Him
 - ⚡ Fun fact: By having this amazing human brain, why not use it to think analytically
 <br/>
