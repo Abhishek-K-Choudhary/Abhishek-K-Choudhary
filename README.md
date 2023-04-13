@@ -30,7 +30,7 @@
 </body>
 <br />
 
-[![Abhishek's github activity graph](https://activity-graph.herokuapp.com/graph?username=Abhishek-K-Choudhary&theme=xcode)](https://git.io/Abhishek-K-Choudhary)
+[![Abhishek's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Abhishek-K-Choudhary&theme=github-compact)](https://github.com/Abhishek-K-Choudhary/github-readme-activity-graph)
 
 <h2 align="center">Here are some facts about me ✍</h2>
 
@@ -93,7 +93,7 @@
 <p align="left" width="100%">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abhishek-K-Choudhary&show_icons=true&hide_border=true&show_icons=true&theme=radical" alt="Abhishek-K-Choudhary" />
     <img  width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-K-Choudhary&theme=radical&cache_seconds=30&hide_border=true" alt="Abhishek-K-Choudhary" />
-</p> 
+</p>
 <br />
 
 <p align="center">
