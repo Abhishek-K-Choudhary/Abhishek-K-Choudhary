@@ -34,7 +34,7 @@
 
 <h2 align="center">Here are some facts about me ✍</h2>
 
-- 🔭 I’m a Data Science Enthusiast and a senior pursuing my Bachelor in Electrical & Electronics Engineering
+- 🔭 I’m a Data Science Enthusiast and a graduate in Electrical & Electronics Engineering.
 - ‍💻 I'm passionate about Artificial Intelligence, MLOps, Internet of Things & Robotics </br>
 - 🌱 I’m currently learning about best MLOps practices and the implementation.
 - 👯 I’m looking to collaborate on some exciting projects related to some key areas like Health, Finance, Agriculture or Retail Areas.
